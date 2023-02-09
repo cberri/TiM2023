@@ -1,0 +1,12 @@
+# To manually install the yml run: conda env create -f environment_ubuntu.yml
+name: StarDist_JN
+channels:
+    - conda-forge
+dependencies:
+    - python=3.7
+    - cudatoolkit=11.7.0
+    - cudnn=8.4.1.50
+    - tensorflow=2.9.1
+    - csbdeep==0.7.2
+    - gputools==0.2.13
+    - stardist==0.8.3
