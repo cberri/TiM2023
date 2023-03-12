@@ -13,27 +13,27 @@ The overall goal is to let participants learn when AI tools can be applied and c
 
 ## In Preparation:
 
-[Done, more tests] `cellpose.exe` Windows with GPU
+[Done] `cellpose.exe` Windows with GPU
 
 [Done] Stardist conda env for Jupyter Notebook (Windows with GPU and MacM1)
 
-[In progress] Stardist Jupyter Notebook for 3D training and prediction
+[Done] Stardist Jupyter Notebook for 3D training and prediction
 
-[To include] ImageJ/Fiji startdist plugin for prediction
+[Done] ImageJ/Fiji startdist plugin for prediction
 
-[To Do] Napari N2V as `NapariN2V.exe`file or Fiji N2V with Cuda 10.0 (only TF supported for Fiji)
+[Done] Build Napari N2V exe file with `pyinstaller`
 
-[To Do] pyinstaller with `NucleusAI.exe`for Windows with GPU support
+[Done] pyinstaller with `NucleusAI.exe`for Windows with GPU support
 
-[To Do] Download and configure installers for Fiji, download ilastik installer, anaconda or miniconda installer
+[Done] Download and configure installers for Fiji, download ilastik installer, anaconda or miniconda installer and git
 
-[To Do, screen records] BAND, bwVisu
+[Done] BAND, bwVisu
 
-[To Add] Speed up GT annotation LabKit and ilastik pixel classification
+[Done] Speed up GT annotation LabKit and ilastik pixel classification
 
-[To Do] Data examples
+[Done] Data examples
 
-[To Do] CARE general idea (no demo, focus on Nikon enhance.ai)
+[Done] CARE general idea (no demo, focus on Nikon enhance.ai)
 
 
 

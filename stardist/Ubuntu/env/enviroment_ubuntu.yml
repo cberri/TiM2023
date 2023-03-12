@@ -1,5 +1,5 @@
 # To manually install the yml run: conda env create -f environment_ubuntu.yml
-name: StarDist_JN
+name: StarDist_JN_1
 channels:
     - conda-forge
 dependencies:
