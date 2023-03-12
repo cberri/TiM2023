@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="700" height="270" src="static/sfb1158.png">
+</p>
+
 # Trends in Microscopy 2023 Workshop
 
 
