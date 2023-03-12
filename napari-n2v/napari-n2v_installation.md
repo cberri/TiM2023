@@ -4,7 +4,7 @@ Source: https://juglab.github.io/napari-n2v/installation.html
 
 1. Download [miniconda](https://docs.conda.io/en/latest/miniconda.html) or [anconda](https://www.anaconda.com/)
 
-2.  Open the conda terminal and create the `napari-n2v` environment
+2. Open the conda terminal and create the `napari-n2v` environment
 
    ```bash
    conda create -n napari-n2v python=3.9
