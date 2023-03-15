@@ -62,6 +62,8 @@ Dr Thomas Schubert (Application Specialist @ Nikon Germany) Thomas.schubert@niko
 
 Albgut Altes Lager, Hauptstraße 318 Münsingen, 72525 Deutschland, <u>Seminar room **Sch3**</u>
 
+
+
 <u>Location and time might change</u>
 
 
