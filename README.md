@@ -58,6 +58,8 @@ Dr Thomas Schubert (Application Specialist @ Nikon Germany) Thomas.schubert@niko
 - Wednesday, 22nd of March - 08:30 PM to 11:30 PM
 - Thursday, 23th of March - 03:30 PM to 07:00 PM
 
+Location and time might change
+
 <u>Where:</u> 
 
 Albgut Altes Lager, Hauptstraße 318 Münsingen, 72525 Deutschland, <u>Seminar room **Sch3**</u>
