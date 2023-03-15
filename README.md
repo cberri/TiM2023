@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="700" height="270" src="static/sfb1158.png">
+  <img width="850" height="270" src="static/Logos.png">
 </p>
+
 
 # Trends in Microscopy 2023 Workshop
 
@@ -15,7 +16,7 @@ The overall goal is to let participants learn when AI tools can be applied and c
 
 
 
-## In Preparation:
+## Prepared Workshop Material:
 
 [Done] `cellpose.exe` Windows with GPU
 
@@ -41,7 +42,7 @@ The overall goal is to let participants learn when AI tools can be applied and c
 
 
 
-## Workshops Schaduale:
+## Workshop Schedule:
 
 <u>When:</u> 
 
@@ -55,9 +56,15 @@ Albgut Altes Lager, Hauptstraße 318 Münsingen, 72525 Deutschland, <u>Seminar r
 
 
 
-## Workshop Program:
+## Workshop Outlook:
 
-...
+- Introduction to machine learning and deep learning (AI)
+- Denoise images with *Nikon* *Denoise.ai* and *Napari* *Noise2Void*
+- Image restoration with *Nikon* *Enhance.ai* and *CARE*
+- Generate ground truth images (Labkit ImageJ/Fiji)
+- Ilastik pixel classification to speed up ground truth annotations
+- Segment convex object with Nikon *Segment.ai* and *stardist* 
+- *Nikon Conver.ai*
 
 
 
