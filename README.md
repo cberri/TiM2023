@@ -55,7 +55,7 @@ Dr Thomas Schubert (Application Specialist @ Nikon GmbH) Thomas.schubert@nikon.c
 <u>When:</u> 
 
 - Monday, 20th of March - 08:30 PM to 11:30 PM
-- Wednesday, 22nd of March - 08:30 AM to 11:30 PM
+- Wednesday, 22nd of March - 08:30 PM to 11:30 PM
 - Thusday, 23th of March - 03:30 PM to 07:00 PM
 
 <u>Where:</u> 
