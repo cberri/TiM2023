@@ -16,6 +16,14 @@ The overall goal is to let participants learn when AI tools can be applied and c
 
 
 
+## Workshop Organizers:
+
+Dr Carlo Antonio Beretta (BioImage Analyst @ Heidelberg University) carlo.beretta@uni-heidelberg.de 
+
+Dr Thomas Schubert (Application Specialist @ Nikon GmbH) Thomas.schubert@nikon.com 
+
+
+
 ## Prepared Workshop Material:
 
 [Done] `cellpose.exe` Windows with GPU
@@ -64,7 +72,7 @@ Albgut Altes Lager, Hauptstraße 318 Münsingen, 72525 Deutschland, <u>Seminar r
 - Generate ground truth images (Labkit ImageJ/Fiji)
 - Ilastik pixel classification to speed up ground truth annotations
 - Segment convex object with Nikon *Segment.ai* and *stardist* 
-- *Nikon Conver.ai*
+- *Nikon Convert.ai*
 
 
 
@@ -72,7 +80,7 @@ Albgut Altes Lager, Hauptstraße 318 Münsingen, 72525 Deutschland, <u>Seminar r
 
 [Anaconda](https://www.anaconda.com/), [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
-[Jupiter Notebook](https://jupyter.org/), [Stardist](https://github.com/stardist), [N2V](https://github.com/juglab/napari-n2v), [CellPose](https://github.com/MouseLand/cellpose), [Napari](https://napari.org/stable/), [ilastik](https://www.ilastik.org/), [ImageJ/Fiji](ImageJ/Fiji), [LabKit](https://imagej.net/plugins/labkit/)
+[Jupyter Notebook](https://jupyter.org/), [Stardist](https://github.com/stardist), [N2V](https://github.com/juglab/napari-n2v), [CellPose](https://github.com/MouseLand/cellpose), [Napari](https://napari.org/stable/), [ilastik](https://www.ilastik.org/), [ImageJ/Fiji](ImageJ/Fiji), [LabKit](https://imagej.net/plugins/labkit/)
 
 [Nikon NIS-Elements](https://www.microscope.healthcare.nikon.com/it_EU/products/software/nis-elements), [Nikon NIS-Elements AI Tools](https://www.microscope.healthcare.nikon.com/products/software/nis-elements/nis-ai-1)
 
