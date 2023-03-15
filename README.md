@@ -20,7 +20,7 @@ The overall goal is to let participants learn when AI tools can be applied and c
 
 Dr Carlo Antonio Beretta (BioImage Analyst @ Heidelberg University) carlo.beretta@uni-heidelberg.de 
 
-Dr Thomas Schubert (Application Specialist @ Nikon GmbH) Thomas.schubert@nikon.com 
+Dr Thomas Schubert (Application Specialist @ Nikon Germany) Thomas.schubert@nikon.com 
 
 
 
@@ -56,7 +56,7 @@ Dr Thomas Schubert (Application Specialist @ Nikon GmbH) Thomas.schubert@nikon.c
 
 - Monday, 20th of March - 08:30 PM to 11:30 PM
 - Wednesday, 22nd of March - 08:30 PM to 11:30 PM
-- Thusday, 23th of March - 03:30 PM to 07:00 PM
+- Thursday, 23th of March - 03:30 PM to 07:00 PM
 
 <u>Where:</u> 
 
