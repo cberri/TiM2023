@@ -64,7 +64,7 @@ Albgut Altes Lager, Hauptstraße 318 Münsingen, 72525 Deutschland, <u>Seminar r
 
 
 
-<u>Location and time might change</u>
+XXX <u>Location and time might change</u> XXX
 
 
 
