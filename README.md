@@ -34,7 +34,7 @@ Dr Thomas Schubert (Application Specialist @ Nikon Germany) Thomas.schubert@niko
 
 [Done] ImageJ/Fiji startdist plugin for prediction
 
-[Done] Build Napari N2V exe file with `pyinstaller`
+[Done] Build `Napari-N2V.exe` with pyinstaller
 
 [Done] pyinstaller with `NucleusAI.exe`for Windows with GPU support
 
@@ -42,7 +42,7 @@ Dr Thomas Schubert (Application Specialist @ Nikon Germany) Thomas.schubert@niko
 
 [Done] BAND, bwVisu
 
-[Done] Speed up GT annotation LabKit and ilastik pixel classification
+[Done] Speed up GT annotation LabKit (ImageJ/Fiji) and ilastik pixel classification
 
 [Done] Data examples
 
@@ -54,17 +54,17 @@ Dr Thomas Schubert (Application Specialist @ Nikon Germany) Thomas.schubert@niko
 
 <u>When:</u> 
 
-- Monday, 20th of March - 08:30 PM to 11:30 PM
-- Wednesday, 22nd of March - 08:30 PM to 11:30 PM
-- Thursday, 23th of March - 03:30 PM to 07:00 PM
+- Monday, 20th of March - 08:30 PM to 12:30 AM
+- Wednesday, 22nd of March - 09:00 AM to 1:00 PM
+- Thursday, 23th of March - 03:30 PM to 07:30 PM
 
 <u>Where:</u> 
 
 Albgut Altes Lager, Hauptstraße 318 Münsingen, 72525 Deutschland, <u>Seminar room **Sch3**</u>
 
-
-
-XXX <u>Location and time might change</u> XXX
+<p align="center">
+  <img width="524" height="532" src="static/IMG_3604.png">
+</p>
 
 
 
@@ -77,6 +77,24 @@ XXX <u>Location and time might change</u> XXX
 - Ilastik pixel classification to speed up ground truth annotations
 - Segment convex object with Nikon *Segment.ai* and *stardist* 
 - *Nikon Convert.ai*
+
+
+
+## TiM23 Open-Source Built Software Download Links:
+
+To run the following sofwares you need to have a Nvidia GPU with the latest [Nvidia GPU drivers installed](https://www.nvidia.com/download/index.aspx). All the follwoing softwares have been built for Windows 10 using [pyinstaller](https://pyinstaller.org/en/stable/)
+
+- [Napari-n2v](https://www.dropbox.com/s/f9ea0tvrhjzk7r6/napari-app.zip?dl=0)
+- [Cellpose](https://www.dropbox.com/s/7odxq86p5zax1fx/cellpose.exe?dl=0)
+- Nucleus.AI (soon)
+
+You can copy the `.exe` file in your favorite folder and run each tool locally. For Napari-n2v navigate into the `napari-app folder` and double click on `napari-app.exe` file 
+
+
+
+## TiM23 Workshop Presentation Download Link:
+
+[WS17 TiM23 Presentation](https://www.dropbox.com/s/ekd6bcakxv8sjdv/TIM2023_Workshop_17.pdf?dl=0)
 
 
 
